@@ -20,7 +20,7 @@ Detailed explanation of the issue, including any impacts on user experience.
  **"Product"** is missing, and the user must navigate through **"Resources"** instead. 
 
 ### **Screenshots:**  
- <br> ![product](assets/screenshots/TC-01-step-2.png) <br>
+ <br> ![Product](assets/screenshots/TC-01-step-2.png) <br>
 
 ### **Environment:**  
 - Browser: Chrome, Firefox, Safari, etc.  
