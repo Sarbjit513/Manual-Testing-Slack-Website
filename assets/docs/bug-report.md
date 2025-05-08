@@ -19,9 +19,6 @@ Detailed explanation of the issue, including any impacts on user experience.
 ### **Actual Result:**  
  **"Product"** is missing, and the user must navigate through **"Resources"** instead. 
 
-### **Screenshots:**  
- <br> ![Product](assets/screenshots/TC-01-step-2.png) <br>
-
 ### **Environment:**  
 - Browser: Chrome, Firefox, Safari, etc.  
 - Operating System: Windows, macOS, Linux  
