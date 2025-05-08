@@ -8,7 +8,7 @@ This repository demonstrates my manual testing skills through a focused set of t
 ## Application Under Test
 
 **Website**: [Slack](https://slack.com) 
-**Version**: Web application as of [Today's Date] 
+**Version**: Web application as of [5/8/2025] 
 **Testing Scope**: Product tour navigation, pricing calculator functionality, and contact form validation 
 **Testing Period**: One-day exploratory testing session
 
