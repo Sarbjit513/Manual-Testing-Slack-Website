@@ -3,10 +3,10 @@
 ## Bug ID: BG-01  
 
 ### **Title:**  
-Brief summary of the bug (e.g., "Product Menu Option Missing in Main Navigation")  
+ Product Option missing
 
 ### **Description:**  
-Detailed explanation of the issue, including any impacts on user experience.  
+  There is no click option for "product" in the main menu. The user will have to click on "Resources" to complete this step. 
 
 ### **Steps to Reproduce:**  
 1. Open the Slack homepage  
